@@ -1,0 +1,36 @@
+.main{
+    
+    height: 400px;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+}
+.main h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+.main p {
+    font-size: 35px
+}
+button{
+  
+    width: 250px;
+     height: 80px;
+    background-color: blue;
+    color: white;
+   
+}
+button:hover{
+    background-color: green;
+}
+.qot{
+
+ height: 300px;
+  width: 700px;
+  margin: auto;
+  margin-top: 50px;
+  
+  padding-top:30px;
+
+}
