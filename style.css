@@ -13,6 +13,10 @@
 .main p {
     font-size: 35px
 }
+div{
+    background-color: #EEE;
+    text-align: center;
+}
 button{
   
     width: 250px;
